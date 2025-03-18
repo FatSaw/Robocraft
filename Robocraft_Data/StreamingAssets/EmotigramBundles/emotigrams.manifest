@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2570259388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a4f79f67b69b14b0d93dc64a8efe539
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0c3d17090532187a4653ff0cfaebe3e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f51e45facbc47641b092d3b8b3d5567, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Emotigrams/Simulation/EmotigramsConfigurableData.asset
+Dependencies: []

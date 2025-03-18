@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 1546387051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1386c35c42a1ed092dad4ae3975a2a41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1d598c0f9bdce2e9873a697cc6af3e09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea1b1a40d9060ce48bf1a709f114a20d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d3b0d555a0f1454a8c8493b27f111fb, type: 3}
+- Class: 114
+  Script: {fileID: 2066047398, guid: 4b4e8768ed04d6a4f98af6f4f83be984, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d45744c030eaf84a807b69439d24da9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca01efacff1a16642aa6c3701ea1ff7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36e1ae5ec6a3963429b4dd75a047578c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 121
+  Script: {instanceID: 0}
+- Class: 123
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/VFX/Equalizer_FX/Equalizer_Crystal_Main.prefab
+Dependencies: []

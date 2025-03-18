@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1100762032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ace56129d08263287b3d1967c71a537
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 827d74b6151e0235f578670b850bbbc1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 144176cbe32b9d4429da6af16c7c9555, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/PlatformSpecificAssets/CubeTypeList_Steam.prefab
+Dependencies:
+- E:/workspace/UnityBuilds/Release_Steam_1.18.1/Client_Linux/Robocraft-Unity/Assets/StreamingAssets/CubeListBundles/cubes_chassis
+- E:/workspace/UnityBuilds/Release_Steam_1.18.1/Client_Linux/Robocraft-Unity/Assets/StreamingAssets/CubeListBundles/cubes_driving
+- E:/workspace/UnityBuilds/Release_Steam_1.18.1/Client_Linux/Robocraft-Unity/Assets/StreamingAssets/CubeListBundles/cubes_hardware
+- E:/workspace/UnityBuilds/Release_Steam_1.18.1/Client_Linux/Robocraft-Unity/Assets/StreamingAssets/CubeListBundles/cubes_special
+- E:/workspace/UnityBuilds/Release_Steam_1.18.1/Client_Linux/Robocraft-Unity/Assets/StreamingAssets/CubeListBundles/cubes_cosmetic
+- E:/workspace/UnityBuilds/Release_Steam_1.18.1/Client_Linux/Robocraft-Unity/Assets/StreamingAssets/CubeListBundles/cubes_none

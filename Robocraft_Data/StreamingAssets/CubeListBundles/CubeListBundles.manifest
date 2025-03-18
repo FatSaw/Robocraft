@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2242648185
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cubelist
+      Dependencies:
+        Dependency_0: cubes_chassis
+        Dependency_1: cubes_driving
+        Dependency_2: cubes_hardware
+        Dependency_3: cubes_special
+        Dependency_4: cubes_cosmetic
+        Dependency_5: cubes_none
+    Info_1:
+      Name: cubes_chassis
+      Dependencies: {}
+    Info_2:
+      Name: cubes_driving
+      Dependencies: {}
+    Info_3:
+      Name: cubes_hardware
+      Dependencies: {}
+    Info_4:
+      Name: cubes_special
+      Dependencies: {}
+    Info_5:
+      Name: cubes_cosmetic
+      Dependencies: {}
+    Info_6:
+      Name: cubes_none
+      Dependencies: {}

@@ -1,0 +1,309 @@
+ManifestFileVersion: 0
+CRC: 2685300315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 748dadabf57d6742b74afafd7a034f66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0dfa0d81252c5aa0311200adf8f7a483
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad91075064cfa493d8de14891ce00a54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89a9e760a0966c64cbde9fd2f809657a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42a02d51eafb6c44f9e324635e137553, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a861fc619d2893c4eaef1a42157f75f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69b5d94285bf40c4189ee1599708e7fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 113dbd42ad914ba4b91fa307119e2762, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6c2c9828fec98747a1b0680f47bed80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7066c1380cbfbc4597c87482fee6a92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a190953c07aef9479af7b83eac18286, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b24fb414fa69e4adea78db152e04bf9a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52ec8c6448dcf1d4c97f3c1f7d12b0d4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2dedaa353dd74dc42a4c1c155e18ae92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4abdfe35b6a302c41a8cc165717df564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 178082455920f5242b31fb52ef0883fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d3b0d555a0f1454a8c8493b27f111fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce315a36a653a544b852446777b11c22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7418c946da2c39549996c5f02ac1bf05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94aca696654742c47aefaadb1060d85f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 011bc4a750b88e44885a1fcf7a2c847c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31eb00e74ec85454489108259f336728, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c09ce0f7cb9a12746b2fb07dc5e9184f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81cfe20901f3a4c1a9008dbb5243caf7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e29c8b0a03fec6b4ead871591cd35dad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa4da78ae393fe94b982018ebff2e4dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a142cea7e92e7f4aa09dd3b8bf86992, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13278f0cd187d8d43acc6a02479e459b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 27a5356ccd43ac048991f4d97cb8b1cd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8765898c6ad0ae34794fea3d0a67102c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89298c9cea654cb46837bdd8882b618f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fc411cc6077e42768c9232ab890657b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc6940ede852ea547b33db6aacfe0253, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e411d3e428684b41851b11083916f29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2b0b5ce7741a422da3a76ef5bf78d05, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+- Class: 123
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Cubes/Mech7Mask/Mech_7_Ear_Right.prefab
+- Assets/Prefabs/Cubes/Flags/6_Years_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/France_Holoflag.prefab
+- Assets/Prefabs/Cubes/Pilot_Seat/RC_Cube_PilotSeat_Retro.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Jammer/Jammer_Medium.prefab
+- Assets/Prefabs/Cubes/SabreMask/Sabretooth_Jaw_Right.prefab
+- Assets/Prefabs/Cubes/Flags/Humble_Bundle_HoloFlag.prefab
+- Assets/Prefabs/Cubes/VaporTrail/Vapor_Trail_Twin.prefab
+- Assets/Prefabs/Cubes/Rhino8Mask/Rhino_8_Ear_Right.prefab
+- Assets/Prefabs/Cubes/AlienwareMask/Alienware_Mask_Head_R.prefab
+- Assets/Prefabs/Cubes/Flags/Pirate_Holoflag.prefab
+- Assets/Prefabs/Cubes/TRex_Mask/TRex_Mask_Head_R.prefab
+- Assets/Prefabs/Cubes/Flags/Netherlands_Holoflag.prefab
+- Assets/Prefabs/Cubes/Halloween/Scary_Mask_Horn_Right.prefab
+- Assets/Prefabs/Cubes/Rhino8Mask/Rhino_8_Jaw_Right.prefab
+- Assets/Prefabs/Cubes/FootballMask/Football_Face_Right.prefab
+- Assets/Prefabs/Cubes/Flags/RoboPass_Season_2_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Overwolf_Holoflag.prefab
+- Assets/Prefabs/Cubes/Honeydew_Mask/Honeydew_Horns_Right.prefab
+- Assets/Prefabs/Cubes/Ninja_Mask/Ninja_Mask_Head_L.prefab
+- Assets/Prefabs/Cubes/VaporTrail/Vapor_Trail_Single_Flower.prefab
+- Assets/Prefabs/Cubes/Cockpit/Cockpit_Mid_Left.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Bronze_League_Badge_Arena.prefab
+- Assets/Prefabs/Cubes/Flags/Bunny_Holoflag.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Gold_League_Badge_Arena.prefab
+- Assets/Prefabs/Cubes/Flags/EasterEgg_Holoflag.prefab
+- Assets/Prefabs/Cubes/AlienwareMask/Alienware_Mask_Head_L.prefab
+- Assets/Prefabs/Cubes/Eyes/CatEye_Left.prefab
+- Assets/Prefabs/Cubes/Eyes/Vigilant_Eyes_Left.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Fairy_Light/Fairy_Light.prefab
+- Assets/Prefabs/Cubes/Halloween/Scary_Mask_Eyes_Left.prefab
+- Assets/Prefabs/Cubes/OverwolfMask/OverWolf_Ear_Right.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Jammer/Jammer_Small.prefab
+- Assets/Prefabs/Cubes/Spike/Spike_Pin.prefab
+- Assets/Prefabs/Cubes/Flags/RoboPass_Season_1_Holoflag.prefab
+- Assets/Prefabs/Cubes/TRex_Mask/TRex_Mask_Nose_L.prefab
+- Assets/Prefabs/Cubes/Honeydew_Mask/Honeydew_Horns_Left.prefab
+- Assets/Prefabs/Cubes/Spike/Spike_Needle.prefab
+- Assets/Prefabs/Cubes/VaporTrail/Vapor_Trail_Single.prefab
+- Assets/Prefabs/Cubes/TRex_Mask/TRex_Mask_Nose_R.prefab
+- Assets/Prefabs/Cubes/SabreMask/Sabretooth_Face_Left.prefab
+- Assets/Prefabs/Cubes/Honeydew_Mask/Honeydew_Face_Right.prefab
+- Assets/Prefabs/Cubes/FootballMask/Football_Helmet_Right.prefab
+- Assets/Prefabs/Cubes/SabreMask/Sabretooth_Face_Right.prefab
+- Assets/Prefabs/Cubes/Honeydew_Mask/Honeydew_Beard_Right.prefab
+- Assets/Prefabs/Cubes/Flags/Flower_Holoflag.prefab
+- Assets/Prefabs/Cubes/AlienwareMask/Alienware_Mask_Ear_L.prefab
+- Assets/Prefabs/Cubes/Flags/Alienware_Holoflag.prefab
+- Assets/Prefabs/Cubes/FootballMask/Football_Helmet_Left.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Radar/Radar_Medium.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Gold_League_Badge.prefab
+- Assets/Prefabs/Cubes/Flags/Candy_Cane_Holoflag.prefab
+- Assets/Prefabs/Cubes/TRex_Mask/TRex_Mask_Jaw_R.prefab
+- Assets/Prefabs/Cubes/Ninja_Mask/Ninja_Mask_Mask_R.prefab
+- Assets/Prefabs/Cubes/Flags/Sweden_Holoflag.prefab
+- Assets/Prefabs/Cubes/Rhino8Mask/Rhino_8_Ear_Left.prefab
+- Assets/Prefabs/Cubes/Balloon/Balloon.prefab
+- Assets/Prefabs/Cubes/Bubble_Machine/Bubble_Machine.prefab
+- Assets/Prefabs/Cubes/AlienwareMask/Alienware_Mask_Ear_R.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Radar/Radar_Small.prefab
+- Assets/Prefabs/Cubes/Spike/Spike_Dagger.prefab
+- Assets/Prefabs/Cubes/Flags/Turkish_flag.prefab
+- Assets/Prefabs/Cubes/Ninja_Mask/Ninja_Mask_Head_R.prefab
+- Assets/Prefabs/Cubes/Flags/Top_Hundred_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/UK_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/5_Years_Holoflag.prefab
+- Assets/Prefabs/Cubes/Eagle_Mask/Eagle_Face_Right.prefab
+- Assets/Prefabs/Cubes/Mech7Mask/Mech_7_Jaw_Right.prefab
+- Assets/Prefabs/Cubes/Flags/3_Years_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Rainbow_Holoflag.prefab
+- Assets/Prefabs/Cubes/Eyes/Cyborg_Eyes.prefab
+- Assets/Prefabs/Cubes/Flags/Robocraft_Holoflag.prefab
+- Assets/Prefabs/Cubes/Eagle_Mask/Eagle_Neck_Right.prefab
+- Assets/Prefabs/Cubes/Speedometer/Speedometer.prefab
+- Assets/Prefabs/Cubes/Flags/Belarus_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Curse_Holoflag.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Protonium_League_Badge.prefab
+- Assets/Prefabs/Cubes/Flags/Germany_Holoflag.prefab
+- Assets/Prefabs/Cubes/Pilot_Seat/RC_Cube_PilotSeat_Cray.prefab
+- Assets/Prefabs/Cubes/Flags/Australia_Holoflag.prefab
+- Assets/Prefabs/Cubes/Cockpit/Cockpit_Mid_Right.prefab
+- Assets/Prefabs/Cubes/Cockpit/Cockpit_Top_Left.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Receiver/Receiver_Large.prefab
+- Assets/Prefabs/Cubes/Ninja_Mask/Ninja_Mask_Bandana_L.prefab
+- Assets/Prefabs/Cubes/Honeydew_Mask/Honeydew_Beard_Left.prefab
+- Assets/Prefabs/Cubes/FootballMask/Football_Guard_Left.prefab
+- Assets/Prefabs/Cubes/OverwolfMask/OverWolf_Jaw_Right.prefab
+- Assets/Prefabs/Cubes/Presents/Present_Large.prefab
+- Assets/Prefabs/Cubes/Eagle_Mask/Eagle_Feathers_Left.prefab
+- Assets/Prefabs/Cubes/Flags/Yogscast_Holoflag.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Protonium_League_Five_Stars_Badge.prefab
+- Assets/Prefabs/Cubes/Pilot_Seat/RC_Cube_PilotSeat_Bunny.prefab
+- Assets/Prefabs/Cubes/Eagle_Mask/Eagle_Feathers_Right.prefab
+- Assets/Prefabs/Cubes/Flags/Chronogg_Holoflag.prefab
+- Assets/Prefabs/Cubes/Halloween/Scary_Mask_Jaw_Right.prefab
+- Assets/Prefabs/Cubes/Altimeter/Altimeter.prefab
+- Assets/Prefabs/Cubes/Flags/Gold_Dev_Supporter_Holoflag.prefab
+- Assets/Prefabs/Cubes/Cockpit/Cockpit_Front_Left.prefab
+- Assets/Prefabs/Cubes/Flags/South_Korea_Holoflag.prefab
+- Assets/Prefabs/Cubes/FootballMask/Football_Face_Left.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Bronze_League_Badge.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Flipper/Flipper_Large.prefab
+- Assets/Prefabs/Cubes/Presents/Present_Small.prefab
+- Assets/Prefabs/Cubes/Exhausts/Exhaust_Stack_R.prefab
+- Assets/Prefabs/Cubes/Rhino8Mask/Rhino_8_Jaw_Left.prefab
+- Assets/Prefabs/Cubes/Flags/Dev_Supporter_Holoflag.prefab
+- Assets/Prefabs/Cubes/SabreMask/Sabretooth_Ear_Right.prefab
+- Assets/Prefabs/Cubes/Flags/Spain_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Italy_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Belgium_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Argentina_Holoflag.prefab
+- Assets/Prefabs/Cubes/OverwolfMask/OverWolf_Eye_Right.prefab
+- Assets/Prefabs/Cubes/VaporTrail/Vapor_Trail_Single_Snowflake.prefab
+- Assets/Prefabs/Cubes/Eagle_Mask/Eagle_Face_Left.prefab
+- Assets/Prefabs/Cubes/Flags/New_Zealand_Holoflag.prefab
+- Assets/Prefabs/Cubes/Halloween/Scary_Mask_Eyes_Right.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Silver_League_Badge_Arena.prefab
+- Assets/Prefabs/Cubes/Exhausts/Exhaust_Stack_L.prefab
+- Assets/Prefabs/Cubes/Flags/Canada_Holoflag.prefab
+- Assets/Prefabs/Cubes/Cockpit/Cockpit_Front_Right.prefab
+- Assets/Prefabs/Cubes/FootballMask/Football_Guard_Right.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Silver_League_Badge.prefab
+- Assets/Prefabs/Cubes/Exhausts/Exhaust_Blower.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Jammer/Jammer_Large.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Receiver/Receiver_Medium.prefab
+- Assets/Prefabs/Cubes/Flags/Ireland_Holoflag.prefab
+- Assets/Prefabs/Cubes/Rhino8Mask/Rhino_8_Nose_Left.prefab
+- Assets/Prefabs/Cubes/TRex_Mask/TRex_Mask_Jaw_L.prefab
+- Assets/Prefabs/Cubes/Pilot_Seat/RC_Cube_PilotSeat_Gene.prefab
+- Assets/Prefabs/Cubes/RobotBanner/Robot_Name_Banner.prefab
+- Assets/Prefabs/Cubes/Flags/Iceland_Holoflag.prefab
+- Assets/Prefabs/Cubes/SabreMask/Sabretooth_Jaw_Left.prefab
+- Assets/Prefabs/Cubes/Eyes/Vigilant_Eyes_Right.prefab
+- Assets/Prefabs/Cubes/Flags/Snowflake_Holoflag.prefab
+- Assets/Prefabs/Cubes/Halloween/Scary_Mask_Horn_Left.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Flipper/Flipper_Medium.prefab
+- Assets/Prefabs/Cubes/Flags/Able_Gamers_Charity_Holoflag.prefab
+- Assets/Prefabs/Cubes/Mech7Mask/Mech_7_Nose_Right.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Radar/Radar_Large.prefab
+- Assets/Prefabs/Cubes/OverwolfMask/OverWolf_Jaw_Left.prefab
+- Assets/Prefabs/Cubes/LeagueBadges/Diamond_League_Badge.prefab
+- Assets/Prefabs/Cubes/AlienwareMask/Alienware_Mask_Jaw_R.prefab
+- Assets/Prefabs/Cubes/Honeydew_Mask/Honeydew_Face_Left.prefab
+- Assets/Prefabs/Cubes/Cockpit/Cockpit_Top_Right.prefab
+- Assets/Prefabs/Cubes/OverwolfMask/OverWolf_Ear_Left.prefab
+- Assets/Prefabs/Cubes/Flags/Poland_Holoflag.prefab
+- Assets/Prefabs/Cubes/Headlamp/Headlamp.prefab
+- Assets/Prefabs/Cubes/Spike/Spike_Claw.prefab
+- Assets/Prefabs/Cubes/Mech7Mask/Mech_7_Ear_Left.prefab
+- Assets/Prefabs/Cubes/Flags/Japan_Holoflag.prefab
+- Assets/Prefabs/Cubes/VaporTrail/Vapor_Trail_Single_Firework.prefab
+- Assets/Prefabs/Cubes/AlienwareMask/Alienware_Mask_Jaw_L.prefab
+- Assets/Prefabs/Cubes/Ninja_Mask/Ninja_Mask_Bandana_R.prefab
+- Assets/Prefabs/Cubes/Flags/Danish_flag.prefab
+- Assets/Prefabs/Cubes/Flags/Kazakhstan_Holoflag.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Receiver/Receiver_Small.prefab
+- Assets/Prefabs/Cubes/Eyes/CatEye_Right.prefab
+- Assets/Prefabs/Cubes/OverwolfMask/OverWolf_Eye_Left.prefab
+- Assets/Prefabs/Cubes/Flags/China_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Brazil_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Russia_Holoflag.prefab
+- Assets/Prefabs/Cubes/Ninja_Mask/Ninja_Mask_Mask_L.prefab
+- Assets/Prefabs/Cubes/Flags/USA_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Ukraine_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/Santa_Cray_Holoflag.prefab
+- Assets/Prefabs/Cubes/Pilot_Seat/RC_Cube_PilotSeat_Mega.prefab
+- Assets/Prefabs/Cubes/Flags/2019_Holoflag.prefab
+- Assets/Prefabs/Cubes/Flags/4_Years_Holoflag.prefab
+- Assets/Prefabs/Cubes/Halloween/Scary_Mask_Jaw_Left.prefab
+- Assets/Prefabs/Cubes/Eagle_Mask/Eagle_Neck_Left.prefab
+- Assets/Prefabs/Cubes/SabreMask/Sabretooth_Ear_Left.prefab
+- Assets/Prefabs/Cubes/Cosmetic/Flipper/Flipper_Small.prefab
+- Assets/Prefabs/Cubes/Rhino8Mask/Rhino_8_Nose_Right.prefab
+- Assets/Prefabs/Cubes/TRex_Mask/TRex_Mask_Head_L.prefab
+- Assets/Prefabs/Cubes/Mech7Mask/Mech_7_Jaw_Left.prefab
+- Assets/Prefabs/Cubes/Mech7Mask/Mech_7_Nose_Left.prefab
+Dependencies: []

@@ -1,0 +1,168 @@
+ManifestFileVersion: 0
+CRC: 254043882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aeb6a647c2f4b6456bd817daaac5f5da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a5ebcf8c3be9a042546bae60c11d41ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1488834044, guid: 7214c2b07bc5f8d42bc2227ac1a07a5e, type: 3}
+- Class: 114
+  Script: {fileID: -381559740, guid: 7214c2b07bc5f8d42bc2227ac1a07a5e, type: 3}
+- Class: 114
+  Script: {fileID: -492114663, guid: 7214c2b07bc5f8d42bc2227ac1a07a5e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a7ca7b021f6b674b815feee28a40c49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 46561141d5d506f43824929e804a3c39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4fe60e175cc599438ac185cd81a9e49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba3e14f1e8e84084ea73b0317189777b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc3c43c27aa8dec429fa26015fbd3270, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18406583f64444944a7883318e23f5d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d3b0d555a0f1454a8c8493b27f111fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7055c8c5cb44d3748a4a9fb01f086dbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a420fe5918754e46a48859d2403e971, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34afcfe6154f5624995850959ca30934, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 011bc4a750b88e44885a1fcf7a2c847c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4869cf08763c0fd4fa12ab1328e5738d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 887f7728bfb59374998528a2df1cb519, type: 3}
+- Class: 114
+  Script: {fileID: 2066047398, guid: 4b4e8768ed04d6a4f98af6f4f83be984, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9052f8a84bafed44994718d1f0059cd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa161fa8f9d1c8643a76a7cb8a4f36de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98c6439a95ec929489f9fbe3c0a56881, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09d1309b251d67d46862d7f89eea2278, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98bc1a4c03d8ac541a723eecd9a1d295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcfe029c6cee43244aa1938ceb18bfdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89298c9cea654cb46837bdd8882b618f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca01efacff1a16642aa6c3701ea1ff7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b609b6bc5f8ffb2469a0bd1a028ffdca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fa7cf5d0e112ec4a8d94bc673838a70, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6c9af8d061dd3b49aab2bce6fd312d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc6940ede852ea547b33db6aacfe0253, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7acde0efbda9cb41a78020429b0ed86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36e1ae5ec6a3963429b4dd75a047578c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e24872f68e63a64f8a48718aa01ec59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9327228ff57268346ad9a61a4ffd9682, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 997316cf69b163c46a4ccfca28a6dfcd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_H_Right_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_C_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_B_Right_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_C_Right_Steam.prefab
+- Assets/Prefabs/Cubes/Module/T5_Disc_Shield_Module.prefab
+- Assets/Prefabs/Cubes/Module/T5_EMP_Module.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_I_Right_Steam.prefab
+- Assets/Prefabs/Cubes/FusionTower/Fusion_Tower.prefab
+- Assets/Prefabs/Cubes/ElectroShield/Football/T3_ElectroShield_D_Left_Football_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_E_Right_Steam.prefab
+- Assets/Prefabs/Cubes/Module/T5_Weapon_Energy_Module.prefab
+- Assets/Prefabs/Cubes/Module/T5_Windowmaker_Module.prefab
+- Assets/Prefabs/Cubes/Protonium_Crystal/Protonium_Crystal.prefab
+- Assets/Prefabs/Cubes/ElectroShield/Football/T3_ElectroShield_D_Right_Football_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_Right_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_K_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_D_Right_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/Spiked/T3_ElectroShield_D_Right_Spiked_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_G_Right_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_J_Right_Steam.prefab
+- Assets/Prefabs/Cubes/Module/T5_Ghost_Module.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_B_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_A_Left_Steam.prefab
+- Assets/Prefabs/Cubes/Module/T5_Blink_Module.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_F_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_G_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_H_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_K_Right_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_I_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_F_Right_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_J_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_E_left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_D_Left_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/Spiked/T3_ElectroShield_D_left_Spiked_Steam.prefab
+- Assets/Prefabs/Cubes/ElectroShield/T3_ElectroShield_A_Right_Steam.prefab
+- Assets/Prefabs/Cubes/Protonium_Clasp/Protonium_Clasp.prefab
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1420243254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad4bd9a00946cfcd494e1c93698312b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 894cb525ae8d5da1c05d4e59da26e50a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb8e131ea237bad4aa6eecd0d846059a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/EventSystem/Mothership/EventSystemUIInfo.asset
+Dependencies: []
